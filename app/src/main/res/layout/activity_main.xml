@@ -12,7 +12,6 @@
         android:layout_height="wrap_content"
         android:text="Új Felvétele"
         android:textSize="25sp"
-        android:backgroundTint="@color/black"
         android:id="@+id/newCityButton"/>
 
     <Button
@@ -20,6 +19,5 @@
         android:layout_height="wrap_content"
         android:text="Listázás"
         android:textSize="25sp"
-        android:backgroundTint="@color/black"
         android:id="@+id/listButton"/>
 </LinearLayout>
