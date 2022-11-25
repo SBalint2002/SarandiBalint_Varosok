@@ -9,8 +9,6 @@ import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
 
-    public static final String URL = "https://retoolapi.dev/TLuyCO/varosok";
-
     private Button newCityButton;
     private Button listButton;
 
